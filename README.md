@@ -68,13 +68,13 @@ jupyter notebook Stock_Analysis.ipynb
 - Lukman Qureshi
 - https://github.com/lukman-17/
 
-##Stock Price Fluctuations
+## Stock Price Fluctuations
   ![image](https://github.com/user-attachments/assets/318c9326-055e-42cc-b1ec-680fa5d6975b)
 
 ## Stock Price EMA 10 days, 20 days, 50 days
 ![image](https://github.com/user-attachments/assets/324e5e77-95e4-4b18-ac12-131158114aeb)
 
-##LSTM Model Predictions on Test Data
+## LSTM Model Predictions on Test Data
 ![image](https://github.com/user-attachments/assets/6496dad6-bf90-42d7-98c8-00d53b854e09)
 
 
